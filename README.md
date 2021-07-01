@@ -1,4 +1,3 @@
 # RO-LIP-Radio
-Podcast Episodes of the RO-LIP Radio
-
-Weitere Infos unter https://ro-lip.th-rosenheim.de/ro-lip-radio/
+This Repo is depricated!
+You will find all Episodes on https://ro-lip.th-rosenheim.de/ro-lip-radio/
